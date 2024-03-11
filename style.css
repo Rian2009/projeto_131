@@ -1,0 +1,23 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+span
+{
+    color: black;
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+
+.btn
+{
+    font-size: 23px;
+    margin: 20px;
+    width: 30%;
+    border-radius: 20px;
+    background-color: rgb(64, 64, 211);
+    color: white;
+}
